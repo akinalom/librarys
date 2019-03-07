@@ -1,0 +1,909 @@
+[
+	{
+		"level": 2,
+		"id_category_section": "1",
+		"value": "3",
+		"id_father": "0",
+		"label": "Infraestructura",
+		"child": [
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "11",
+				"id_father": "3",
+				"label": "Enlaces dedicados",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "145",
+						"id_father": "11",
+						"label": "Librería Norte (192.168.3.100)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "144",
+						"id_father": "11",
+						"label": "GreenTag Norte (192.168.2.100)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "143",
+						"id_father": "11",
+						"label": "Oficinas (192.168.1.195)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "147",
+						"id_father": "11",
+						"label": "Greentag Sur (192.168.6.100)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "146",
+						"id_father": "11",
+						"label": "Bolivar (192.168.4.100)",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "10",
+				"id_father": "3",
+				"label": "Consumibles",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "142",
+						"id_father": "10",
+						"label": "Maxcom",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "141",
+						"id_father": "10",
+						"label": "Alestra",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "9",
+				"id_father": "3",
+				"label": "Cámaras de  seguridad",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "138",
+						"id_father": "9",
+						"label": "Almacen (192.168.1.18)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "137",
+						"id_father": "9",
+						"label": "Oficinas (192.168.1.8)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "140",
+						"id_father": "9",
+						"label": "Greentag Sur(pendiente)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "139",
+						"id_father": "9",
+						"label": "Casa Prado (172.16.1.85)",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "8",
+				"id_father": "3",
+				"label": "PBX",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "136",
+						"id_father": "8",
+						"label": "01 800 Atencion a Colegios",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "135",
+						"id_father": "8",
+						"label": "01 800 Atencion a Clientes",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "134",
+						"id_father": "8",
+						"label": "Alestra",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "133",
+						"id_father": "8",
+						"label": "DDL",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "132",
+						"id_father": "8",
+						"label": "Permisos Telefonia (codigo cuenta)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "131",
+						"id_father": "8",
+						"label": "Linea Telefonica (Extensión)",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "7",
+				"id_father": "3",
+				"label": "HW",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "125",
+						"id_father": "7",
+						"label": "Pilas",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "109",
+						"id_father": "7",
+						"label": "Computadoras",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "117",
+						"id_father": "7",
+						"label": "Impresoras",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "124",
+						"id_father": "7",
+						"label": "Adaptador",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "108",
+						"id_father": "7",
+						"label": "Servidores",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "116",
+						"id_father": "7",
+						"label": "NoBreak",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "123",
+						"id_father": "7",
+						"label": "Cable USB",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "115",
+						"id_father": "7",
+						"label": "HD",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "122",
+						"id_father": "7",
+						"label": "Cable HDMI",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "114",
+						"id_father": "7",
+						"label": "Memoria",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "121",
+						"id_father": "7",
+						"label": "Cable de RED",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "113",
+						"id_father": "7",
+						"label": "Mouse",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "120",
+						"id_father": "7",
+						"label": "USB",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "112",
+						"id_father": "7",
+						"label": "Teclados",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "119",
+						"id_father": "7",
+						"label": "Monitor",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "111",
+						"id_father": "7",
+						"label": "Proyectores",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "110",
+						"id_father": "7",
+						"label": "Teléfonos",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "118",
+						"id_father": "7",
+						"label": "Time Capsule",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "6",
+				"id_father": "3",
+				"label": "Servicios en la nube",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "107",
+						"id_father": "6",
+						"label": "Hostinger",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "106",
+						"id_father": "6",
+						"label": "AWS-Odoo",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "105",
+						"id_father": "6",
+						"label": "AWS-Klaar",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "104",
+						"id_father": "6",
+						"label": "AWS-Ezetera",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "5",
+				"id_father": "3",
+				"label": "Redes",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "101",
+						"id_father": "5",
+						"label": "DHCP Dinamico Proxy (192.168.5.0/24)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "100",
+						"id_father": "5",
+						"label": "Bolivar (192.168.4.0/24)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "99",
+						"id_father": "5",
+						"label": "Librería Norte (192.168.3.0/24)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "98",
+						"id_father": "5",
+						"label": "GreenTag Norte (192.168.2.0/24)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "97",
+						"id_father": "5",
+						"label": "Oficinas (192.168.1.0/24)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "103",
+						"id_father": "5",
+						"label": "Mantenimiento RED 2019",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "102",
+						"id_father": "5",
+						"label": "GreenTag Sur (192.168.6.0/24)",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "4",
+				"id_father": "3",
+				"label": "Servidores",
+				"child": [
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "85",
+						"id_father": "4",
+						"label": "Cámaras (192.168.1.8)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "93",
+						"id_father": "4",
+						"label": "Bacula Libreria Norte (192.168.3.50)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "84",
+						"id_father": "4",
+						"label": "Terminal Server(192.168.1.6)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "92",
+						"id_father": "4",
+						"label": "Bacula Greentag Norte (192.168.2.50)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "83",
+						"id_father": "4",
+						"label": "Pandora (192.168.1.5)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "91",
+						"id_father": "4",
+						"label": "Replica app Owncloud (192.168.1.17)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "82",
+						"id_father": "4",
+						"label": "Ocs Inventory (192.168.1.4)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "90",
+						"id_father": "4",
+						"label": "BBDD Owncloud (192.168.1.13)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "81",
+						"id_father": "4",
+						"label": "Bacula (192.168.1.3)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "89",
+						"id_father": "4",
+						"label": "Darth Vader (192.168.1.12)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "80",
+						"id_father": "4",
+						"label": "Sistema de Vales (192.168.1.2)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "88",
+						"id_father": "4",
+						"label": "Owncloud App Server (192.168.1.11)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "96",
+						"id_father": "4",
+						"label": "DMZ Servidores",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "79",
+						"id_father": "4",
+						"label": "Firewall (192.168.1.1)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "87",
+						"id_father": "4",
+						"label": "SAP (192.168.1.10)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "95",
+						"id_father": "4",
+						"label": "Bacula Greentag Sur (192.168.6.50)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "86",
+						"id_father": "4",
+						"label": "WMS (192.168.1.9)",
+						"child": []
+					},
+					{
+						"level": 4,
+						"id_category_section": "1",
+						"value": "94",
+						"id_father": "4",
+						"label": "Bacula Bolivar (192.168.4.50)",
+						"child": []
+					}
+				]
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "12",
+				"id_father": "3",
+				"label": "Reloj Checador",
+				"child": []
+			}
+		]
+	},
+	{
+		"level": 2,
+		"id_category_section": "1",
+		"value": "2",
+		"id_father": "0",
+		"label": "Internas",
+		"child": [
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "69",
+				"id_father": "2",
+				"label": "Presupuesto",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "77",
+				"id_father": "2",
+				"label": "Documentación",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "68",
+				"id_father": "2",
+				"label": "Capacitaciones",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "76",
+				"id_father": "2",
+				"label": "Dominios",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "75",
+				"id_father": "2",
+				"label": "Contratos",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "74",
+				"id_father": "2",
+				"label": "Procesos",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "73",
+				"id_father": "2",
+				"label": "Auditorias",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "72",
+				"id_father": "2",
+				"label": "Macroplan",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "71",
+				"id_father": "2",
+				"label": "BlackBook",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "70",
+				"id_father": "2",
+				"label": "Administrativas",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "78",
+				"id_father": "2",
+				"label": "PDI",
+				"child": []
+			}
+		]
+	},
+	{
+		"level": 2,
+		"id_category_section": "1",
+		"value": "1",
+		"id_father": "0",
+		"label": "Aplicaciones",
+		"child": [
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "43",
+				"id_father": "1",
+				"label": "Ezetera",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "51",
+				"id_father": "1",
+				"label": "Pandora",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "35",
+				"id_father": "1",
+				"label": "SalesForce",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "50",
+				"id_father": "1",
+				"label": "Control de Accesos",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "34",
+				"id_father": "1",
+				"label": "Qlikview",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "42",
+				"id_father": "1",
+				"label": "Proveedores",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "49",
+				"id_father": "1",
+				"label": "Punto de Venta",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "57",
+				"id_father": "1",
+				"label": "GSuite",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "33",
+				"id_father": "1",
+				"label": "SAP",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "41",
+				"id_father": "1",
+				"label": "Venta Directa",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "48",
+				"id_father": "1",
+				"label": "Wordpress",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "56",
+				"id_father": "1",
+				"label": "OS Tickets",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "40",
+				"id_father": "1",
+				"label": "Vales",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "47",
+				"id_father": "1",
+				"label": "GLPI",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "55",
+				"id_father": "1",
+				"label": "Zoiper",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "39",
+				"id_father": "1",
+				"label": "Alto Riesgo",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "46",
+				"id_father": "1",
+				"label": "Mandrill",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "54",
+				"id_father": "1",
+				"label": "SUL",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "38",
+				"id_father": "1",
+				"label": "Magento",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "45",
+				"id_father": "1",
+				"label": "ZendDesk",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "53",
+				"id_father": "1",
+				"label": "OCS",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "37",
+				"id_father": "1",
+				"label": "WMS",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "44",
+				"id_father": "1",
+				"label": "eKomercio",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "52",
+				"id_father": "1",
+				"label": "OSSEC",
+				"child": []
+			},
+			{
+				"level": 3,
+				"id_category_section": "1",
+				"value": "36",
+				"id_father": "1",
+				"label": "Trazabilidad",
+				"child": []
+			}
+		]
+	}
+]
